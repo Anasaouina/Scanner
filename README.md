@@ -8,23 +8,15 @@ A compact, practical **asynchronous TCP connect** network & port scanner written
 
 ---
 
-## Demo
 
-> Add a short animated GIF to the repository at `./demo.gif` (10–500 KB recommended) and GitHub will render it in the README. Example embed below — replace with your GIF file.
 
-![Demo](./demo.gif)
+## Badges
 
-*If you don't have a GIF yet, create one by recording a terminal session (e.g., using `asciinema` + `svg2gif` or `peek` on Linux, or `ShareX` on Windows), then add it to the repo.*
 
----
-
-## Badges (customize)
-
-You can replace `<OWNER>` and `<REPO>` below with your GitHub account and repository name to enable workflow badges.
 
 ```markdown
-![CI](https://github.com/<OWNER>/<REPO>/actions/workflows/ci.yml/badge.svg)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/<OWNER>/<REPO>)
+![CI](https://github.com/Anasaouina/Scanner/actions/workflows/ci.yml/badge.svg)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/AnasAouina/Scanner)
 ```
 
 ---
@@ -171,3 +163,4 @@ This repository is provided for educational and authorized testing purposes. Add
 ---
 
 *Generated with ❤️ — edit as needed and replace placeholders like `<OWNER>/<REPO>` and `demo.gif`.*
+
