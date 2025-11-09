@@ -8,19 +8,6 @@ A compact, practical **asynchronous TCP connect** network & port scanner written
 
 ---
 
-
-
-## Badges
-
-
-
-```markdown
-![CI](https://github.com/Anasaouina/Scanner/actions/workflows/ci.yml/badge.svg)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/AnasAouina/Scanner)
-```
-
----
-
 ## Features
 
 * Accepts single IP, hostname, or CIDR (e.g. `192.168.1.0/24`) targets.
@@ -42,8 +29,7 @@ A compact, practical **asynchronous TCP connect** network & port scanner written
 ## Install / Add to repo
 
 1. Save the scanner to `scanner.py` in your repository.
-2. (Optional) Add a small demo GIF as `demo.gif`.
-3. Make executable (optional):
+2. Make executable (optional):
 
 ```bash
 chmod +x scanner.py
@@ -158,9 +144,10 @@ Bug reports and PRs welcome. Please include a short description, reproduction st
 
 ## License
 
-This repository is provided for educational and authorized testing purposes. Add a `LICENSE` file (e.g., MIT) if you want to make the license explicit.
+This repository is provided for educational and authorized testing purposes.
 
 ---
 
-*Generated with ❤️ — edit as needed and replace placeholders like `<OWNER>/<REPO>` and `demo.gif`.*
+*Generated with ❤️ — edit as needed
+
 
