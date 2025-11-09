@@ -1,0 +1,19 @@
+{
+  "192.168.0.1": [
+    {
+      "port": 22,
+      "open": false,
+      "banner": ""
+    },
+    {
+      "port": 80,
+      "open": true,
+      "banner": ""
+    },
+    {
+      "port": 443,
+      "open": false,
+      "banner": ""
+    }
+  ]
+}
